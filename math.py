@@ -1,5 +1,3 @@
-# On Branch branch1
-
 # Add the Implemention
 def add(x, y):
     return x+y
@@ -8,6 +6,7 @@ def add(x, y):
 def subtract(x, y):
     return x-y
 
+#Multiplication Implementation
 def multiply(x, y):
 	pass
 	
