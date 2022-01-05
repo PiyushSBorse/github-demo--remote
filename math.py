@@ -8,8 +8,8 @@ def subtract(x, y):
 
 #Multiplication Implementation
 def multiply(x, y):
-	pass
+    return x*y
 	
 # Division Implementation
 def divide(x, y):
-	pass
+    return x//y
