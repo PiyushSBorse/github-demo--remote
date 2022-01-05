@@ -16,4 +16,4 @@ def divide(x, y):
     
 # Square Implementation
 def square(x):
-    pass
+    return x*x
